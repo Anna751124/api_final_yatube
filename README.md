@@ -1,13 +1,13 @@
-# API для социальной сети Yatube
+# Проект «API для Yatube»
 
 ## Описание
 
-API для соцсети блогеров Yatube
+API для социальной сети Yatube
 
 #### Технологии
 
 - Python 3.7
-- Django 2.2.16
+- Django 3.2.16
 - Django Rest Framework 3.12.4
 - Djoser 
 - Simple JWT
